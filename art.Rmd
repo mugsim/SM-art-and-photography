@@ -1,0 +1,21 @@
+---
+title: "Art collection"
+description: |
+  Latest drawings and paintings
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+
+
+
+

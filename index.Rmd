@@ -17,25 +17,21 @@ site: distill::distill_website
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+My name is Simon and I currently live in Basel. I am doing my Masters degree in Psychology and another passion of mine is painting, drawing and photography. 
+I have always loved drawing and painting ever since I was young and as I grew up there did not seem to be sufficient time for it. 
+Photography I started before even realising it and always found taking pictures or imagining what a picture might look like very peaceful. 
+The whole procedure of art and photography is rewarding in so many different aspects.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Photography** | Digital and Analog
+Wedding photography, Food photography, Portrait, Street photography, Landscape photography
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+**Art** | Drawing and painting
+Landscape painting, acrylic painting, pencil drawing, oil painting
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Collaboration** | Nikon | Isey Skyr
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Contact information** | E-mail adress | Instagram

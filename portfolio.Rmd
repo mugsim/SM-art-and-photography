@@ -1,0 +1,35 @@
+---
+title: "Portfolio"
+description: |
+  Getting to know my style
+  
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# My Image Gallery
+
+Here are some images:
+
+<img src="IMG_0901.jpg" alt="Image 1" width="300" height="600">
+<img src="20231031204612_IMG_4068.jpg" alt="Image 2" width="300" height="600">
+<img src="20231031204712_IMG_4070.jpg" alt="Image 3" width="300" height="600">
+<img src="20231031204829_IMG_4075.jpg" alt="Image 3" width="300" height="600">
+<img src="20231031204916_IMG_4078.jpg" alt="Image 3" width="300" height="600">
+
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="images/image3.jpg" alt="Image 3" width="300" height="200">
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+---
+title: "Home"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Simon Mugume 
+    url: https://instagram.com/smartandphotography?igshid=OGQ5ZDc2ODk2ZA==
+    affiliation: Worldfuud
+    affiliation_url: https://instagram.com/worldfuud?igshid=OGQ5ZDc2ODk2ZA==
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Photography 
+Check out 3 online, interactive lessons to see the cool things you can do with R (these lessons use the `learnr` package)
+
+- Draw boxplots
+- <a href="https://batoolmm.shinyapps.io/tutorials/#section-generating-sequences-part-1" target="_blank">Generate sequences</a>
+- <a href="https://batoolmm.shinyapps.io/tutorials/#section-representing-data-with-boxplots" target="_blank">Representing data with boxplots</a>
+
+# The sky is crying
+
+## Droplets
+
+![Droplets](IMG_0901.jpg)
+
+
+## The autumn leaves
+
+![Autumn leaves](IMG_0922.jpg)
+
+
+
+

@@ -1,10 +1,15 @@
 ---
-title: "About this site"
+title: "About"
 description: |
-  Some additional details about the website
+  When art and photography come together
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Photography
+Photography is a powerful medium that captures moments, emotions, and stories in a single frame. Through the lens, photographers have the ability to freeze time, preserving the beauty of fleeting moments and immortalizing them for eternity. It's not just about clicking a button; it's about seeing the world from a unique perspective, finding extraordinary in the ordinary, and translating emotions into visual language. Photography allows us to explore diverse cultures, nature's wonders, and the depths of human experiences. It evokes empathy, sparks curiosity, and serves as a universal language that transcends barriers, connecting people from different walks of life through the shared appreciation of imagery.
+
+# Art
+Art is the expression of human creativity, imagination, and skill, encompassing a wide range of mediums and forms. It serves as a mirror reflecting society, culture, and individual experiences, often challenging conventional norms and inspiring new ways of thinking. Art has the power to provoke emotions, stimulate intellectual discourse, and convey profound messages. It can be found in classical paintings hanging in prestigious museums, vibrant street murals adorning urban landscapes, and digital creations shared across global platforms. Artists use their craft to comment on social issues, depict the beauty of nature, or delve into the complexities of the human psyche. Through art, people can connect, share ideas, and appreciate the diversity of human expression, fostering a deeper understanding of the world and the people within it.
